@@ -34,14 +34,12 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-这是一个使用 create-next-app 引导的 Next.js 项目。
+# 这是一个使用 create-next-app 引导的 Next.js 项目。
 
 开始
 首先，运行开发服务器：
 
-npm run dev
-# 或
-yarn dev
+npm run dev 或 yarn dev
 用浏览器打开 http://localhost:3000 查看结果。
 
 你可以通过修改 pages/index.js 开始编辑页面。编辑文件时，页面会自动更新。
